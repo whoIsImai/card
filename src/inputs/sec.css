@@ -1,0 +1,50 @@
+.front2{
+    background-color: #718355;
+    height: 2.13in;
+    width: 3.35in;
+    margin-bottom: 1in;
+    border: 1px solid black;
+    box-shadow: 1px 1px 20px black;
+}
+.cpnname2{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    margin-left: 2px;
+    font-family: monospace;
+    height: 50%;
+}
+.slog2{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    margin-left: 2px;
+    font-family: monospace;
+    position: relative;
+}
+.back2{
+    background-color: #FFFFF7;
+    height: 2.13in;
+    width: 3.35in;
+    border: 1px solid black;
+    box-shadow: 1px 1px 20px black;
+}
+.back22{
+    margin-left: 2em;
+    padding-top: 1em;   
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.founder2{
+    color: #718355;
+    position: relative;
+    top: -1em;
+}
+.other2{
+    margin-top: -2em;
+    border-left: 5px solid #718355;
+    padding-left: 1em;
+}
+.cmtp{
+    position: relative;
+    top: -2em;
+}

@@ -1,0 +1,42 @@
+.front3{
+    background-color: rgb(36, 33, 33);
+    height: 2.13in;
+    width: 3.35in;
+    margin-bottom: 1in;
+    border: 1px solid black;
+    box-shadow: 1px 1px 20px black;
+    color: rgb(226, 211, 211);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
+.cont3{
+    text-align: left; margin-left: 10px;
+}
+.contelem{
+    text-align:right; 
+    padding-top: 1em;
+     padding-right: 1em;
+}
+.slogan3{
+    text-align: center;
+     padding-top: 1em;
+}
+.back3{
+    background-color: #DDB892;
+    height: 2.13in;
+    width: 3.35in;
+    border: 1px solid black;
+    box-shadow: 1px 1px 20px black;
+}
+.cmpnname3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+}
+.slog3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0%;
+    font-style: italic;
+}

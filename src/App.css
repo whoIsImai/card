@@ -1,0 +1,85 @@
+.fielset{
+    width: fit-content;
+    margin-left: 1.7em;
+    position: relative;
+    top: -2em;
+}
+.details{
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 0.5em;
+}
+.cardd{
+    width: 7em;
+}
+input[type="radio"]{
+    transform: scale(1.5);
+}
+.heading{
+    width: 50%;
+    margin: 0.5em auto;
+    font-size: 4em;
+    color: rgb(51, 51, 190);
+    font-size: 30px;
+    position: relative;
+    left: 2em;
+    top: -1.5em;
+}
+.logo{
+    border-radius: 100px;
+    width: 6em;
+    position: relative;
+    left: 3em;
+    top: 2.9em;
+}
+.slide{
+    background-color: blue;
+    padding: 1em;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: -1;
+    font-size: 0.8em;
+}
+@media screen and (min-width:768px){
+    .heading{
+        font-size: 40px;
+        position: relative;
+        left: 2.5em;
+    }
+    .logo{
+        width: 7em;
+        position: relative;
+        top: 4em;
+        left: 8em;
+    }
+    .slide{
+        font-size: 1em;
+    }
+    .fielset{
+        position: relative;
+        top: -2em;
+        left: 3em;
+    }
+    .cardd{
+        width: 11em;
+    }
+}
+@media screen and (min-width:992px) {
+    .cardd{
+        width: 20em;
+    }
+    .fielset{
+        position: relative;
+        left: 2em;
+        top: -1em;
+    }
+    .logo{
+        position: relative;
+        left: 12em;
+        top: 4.5em;
+        width: 9em;
+    }
+}
